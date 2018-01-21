@@ -1,0 +1,9 @@
+Building Sobercoin
+
+See doc/readme-qt.rst for instructions on building Sobercoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sobercoin.
+
+See doc/build-*.txt for instructions on building sobercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sobercoin.
